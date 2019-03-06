@@ -13,7 +13,7 @@ import org.hibernate.Transaction;
 
 /**
  *
- * @author jonathan
+ * @author desales
  */
 public class UsuarioDAO extends AbstractDAO<Usuario> {
     

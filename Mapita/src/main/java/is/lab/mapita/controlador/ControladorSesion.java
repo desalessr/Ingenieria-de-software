@@ -12,7 +12,7 @@ import javax.faces.context.FacesContext;
 
 /**
  *
- * @author jonathan
+ * @author desales
  */
 @ManagedBean
 @SessionScoped

@@ -14,7 +14,7 @@ import org.hibernate.Transaction;
 
 /**
  *
- * @author jonathan
+ * @author desales
  */
 public abstract class AbstractDAO<T> {
     
